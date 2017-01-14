@@ -28,7 +28,7 @@
     <script src="../components/datatables/media/js/jquery.dataTables.js"></script>
     <script src="../dist/js/patternfly.min.js"></script>
   </head>
-  <body>
+  <body>xxxxxxxxx
     <nav class="navbar navbar-default navbar-pf" role="navigation">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
